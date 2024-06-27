@@ -1,6 +1,6 @@
 ### COMPILING THE C PROGRAM TO RISCV PROCESSOR
 
-# C program for Traffic Flow Controller: Sequential Traffic Light Control System
+# C - program for Traffic Flow Controller: Sequential Traffic Light Control System
 - (sample c code taken from co - pilot)
 
 ![Screenshot (301)](https://github.com/banushrees/VSD-project/assets/105593083/0d509c2f-2341-4f97-a8c4-6e517a5bdd1f)
