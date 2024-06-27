@@ -10,7 +10,7 @@
 ![Screenshot (302)](https://github.com/banushrees/VSD-project/assets/105593083/36e4669b-ff6b-41a3-8791-b6a8fb1c7681)
 
 ## Output using RISCV processing command
-command: *riscv64-unknown-elf-gcc -01 -mabi=lp64 -march=rv64i -o traffic_light.o traffic_light.c*
+command: `riscv64-unknown-elf-gcc -01 -mabi=lp64 -march=rv64i -o traffic_light.o traffic_light.c`
 
 
 ![Screenshot (303)](https://github.com/banushrees/VSD-project/assets/105593083/8e507568-b41d-4585-9828-239085ab590f)
