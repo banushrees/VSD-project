@@ -57,11 +57,6 @@ select the instruction set from EX_MEM_IR[31:0]
 
   ![SLL r15,r11,r2](https://github.com/banushrees/VSD-project/assets/105593083/b6612d4e-3659-400d-a5e8-25954851ed8d)
 
-
-    
-
-
-
-     
+.
   
 
