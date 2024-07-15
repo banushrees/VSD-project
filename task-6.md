@@ -10,7 +10,7 @@
     - Connecting wires
     - Power supply (USB cable)
 
-Circuit diagram:
+## Circuit diagram:
 
   ![image](https://github.com/user-attachments/assets/06fffaab-4d5a-4c97-9aba-fa9361a03301)
 
@@ -18,7 +18,7 @@ Circuit diagram:
 
 
 
-   PIN CONNECTIONS:
+## PIN CONNECTIONS:
    
     PIN PD1-  YELLOW LIGHT
     PIN PD2 - RED LIGHT
@@ -28,7 +28,7 @@ Circuit diagram:
     PIN PD7 - GREEN LIGHT 
     PIN GND - GROUND
 
-   ### WORKING CONDITIONS:
+## WORKING CONDITIONS:
    
 - North-South Green Light:
 
@@ -178,7 +178,7 @@ void eastWestRed() {
     sleep(RED_DURATION);
 }
 ```
-WORKING VIDEO:
+## WORKING VIDEO:
 
 https://github.com/user-attachments/assets/a249638d-d0ed-4adb-a628-3aa4288736e9
 
