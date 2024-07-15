@@ -5,7 +5,7 @@
    ### Project components:
     - Breadboard
     - VSD squadron mini board
-    - LED lights 
+    - LED lights (Red,Yellow,Green)
     - Resistors
     - Connecting wires
     - Power supply (USB cable)
@@ -29,7 +29,7 @@
     PIN GND - GROUND
 
 ## WORKING CONDITIONS:
-   
+
 - North-South Green Light:
 
 North-South direction has green light (vehicles proceed).
